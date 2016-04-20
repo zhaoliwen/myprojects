@@ -1,5 +1,7 @@
 package com.example.zhy_horizontalscrollview;
 
-public class UpLoadActivity {
+import android.app.Activity;
+
+public class UpLoadActivity extends Activity{
 
 }
